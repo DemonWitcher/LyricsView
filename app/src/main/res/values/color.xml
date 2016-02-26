@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="current_lyc">#F9D982</color>
+    <color name="else_lyc">#ffffff</color>
+    <color name="divider">#E9E9E9</color>
+</resources>
